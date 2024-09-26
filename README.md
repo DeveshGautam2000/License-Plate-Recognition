@@ -67,4 +67,4 @@ pip install matplotlib
 
 ## Development
 
-Developer: Mr. Devesh Gautam
+Developers: Someone from the community
